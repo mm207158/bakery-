@@ -1,0 +1,92 @@
+.who-we-are {
+
+    float: left;
+}
+
+.who-we-are-img {
+    padding-top: 5%;
+    width: 50%;
+
+}
+
+.who-we-are-img img {
+    width: 80%;
+    float: left;
+    padding-left: 100px;
+}
+
+.who-we-are-info {
+
+   
+    width: 50%;
+    float: left;
+}
+
+.who-we-are-info h2{
+    padding-top: 50px;
+  ;
+}
+
+.crl {
+    clear: both;
+}
+
+.who-we-are-info p,h2 {
+    color: gray;
+    padding-left: 100px;
+}
+
+.icon-list  {
+    padding-left: 100px;
+    padding-top: 10px;
+    list-style: none;
+    color: gray;
+}
+.icon-list li{
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+    margin-bottom: 10px
+}
+
+.icon-list img {
+    width: 8%;
+}
+ .our-location{
+    
+    margin-top: 90px;
+    background-color: #F8F8F8;
+    
+    float: left;
+ }
+ .our-location-info{
+  
+    width: 50%;
+    color: gray;
+    float: left;
+ }
+ .our-location-img{
+   
+ 
+    float: left;
+    width: 50%;
+ }
+ .our-location-info h2{
+    margin-top: 100px;
+    padding-left: 50px;
+ }
+ .our-location-info p{
+    margin-top: 50px;
+    padding-left: 50px;
+ }
+.our-location-img img{
+  margin :70px 50px;
+
+    padding-left: 100px;
+    width: 70%;
+    float: left;
+   
+}
+.crl{
+    clear: both;
+}
